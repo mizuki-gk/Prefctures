@@ -9,10 +9,9 @@
 - HTML
 - CSS
 - TypeScript
-- React
-
 
 ## 使用ライブラリ
+- React
 - axios
 
 
